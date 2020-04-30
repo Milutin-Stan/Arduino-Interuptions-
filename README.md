@@ -15,6 +15,6 @@ ENG
 A c pure coded Arduino project, this is only a basic example of a interuption on a microcontroler.
 The make file is only to be used as a example in case your microcontroller is different (used AtMega328p)
 
-Required librery: "avr-gcc" and "avr-dude"
+Required library: "avr-gcc" and "avr-dude"
 
 This project has been done on a Windows platform (maybe not the most optimal way)
